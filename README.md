@@ -67,6 +67,7 @@ O projeto está organizado da seguinte forma para garantir a manutenibilidade:
 
 ├── css/
 │   └── estilos.css
+
 ├── js/
 │   └── scripts.js
 
