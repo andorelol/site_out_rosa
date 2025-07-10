@@ -60,6 +60,7 @@ O site conta com as seguintes seções e funcionalidades interativas:
 O projeto está organizado da seguinte forma:
 
 
+```text
 /site_out_rosa/
 ├── 📂 css/
 │   └── estilos.css
@@ -70,7 +71,7 @@ O projeto está organizado da seguinte forma:
 ├── 📜 index.html
 ├── 🐍 servidor.py
 └── 📄 README.md
-
+```
 
 ## 🖥️ Como Visualizar o Projeto
 
