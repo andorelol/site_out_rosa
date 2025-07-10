@@ -64,12 +64,15 @@ O site conta com as seguintes seções e funcionalidades interativas:
 O projeto está organizado da seguinte forma para garantir a manutenibilidade:
 
 /outubro-rosa-site/
+
 ├── css/
 │   └── estilos.css
 ├── js/
 │   └── scripts.js
+
 ├── imagens/
 │   └── outubro.jpg
+
 ├── index.html
 └── README.md
 
