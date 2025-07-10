@@ -3,7 +3,17 @@
 ![Status](https://img.shields.io/badge/status-concluído-brightgreen)
 ![GitHub Pages](https://img.shields.io/badge/deploy-GitHub%20Pages-blueviolet)
 
-[cite_start]Este projeto é um site informativo e interativo sobre a campanha **Outubro Rosa**, desenvolvido como parte da iniciativa acadêmica "Vozes das Cores". [cite: 1, 17] [cite_start]O objetivo principal é utilizar a tecnologia para disseminar informações de qualidade sobre a importância da prevenção e do diagnóstico precoce do câncer de mama. [cite: 2]
+Este projeto é um site informativo e interativo sobre a campanha **Outubro Rosa**, desenvolvido como parte da iniciativa acadêmica "Vozes das Cores". O objetivo principal é utilizar a tecnologia para disseminar informações de qualidade sobre a importância da prevenção e do diagnóstico precoce do câncer de mama.
+
+---
+
+## 👨‍💻 Autores
+
+Este projeto foi desenvolvido com dedicação por:
+
+-   **André Luan** - [GitHub](https://github.com/andorelol)
+-   **Pedro Augusto** - [GitHub](https://github.com/pedroasampa)
+-   **Raphael Guthyer** - (Adicione o link do GitHub aqui se houver)
 
 ---
 
@@ -14,19 +24,15 @@
 - [🚀 Tecnologias Utilizadas](#-tecnologias-utilizadas)
 - [📂 Estrutura de Pastas](#-estrutura-de-pastas)
 - [🖥️ Como Visualizar o Projeto](#️-como-visualizar-o-projeto)
-- [👨‍💻 Autores](#-autores)
 
----
 
 ## 📖 Descrição do Projeto
 
-[cite_start]O projeto "Vozes das Cores" propõe a criação de um site sobre uma das campanhas mensais de conscientização. [cite: 2] [cite_start]Nossa equipe escolheu o **Outubro Rosa** [cite: 17] devido à sua imensa relevância para a saúde pública.
+O projeto "Vozes das Cores" propõe a criação de um site sobre uma das campanhas mensais de conscientização. Nossa equipe escolheu o **Outubro Rosa** devido à sua imensa relevância para a saúde pública.
 
-[cite_start]O escopo inicial do projeto, conforme as diretrizes, previa a utilização de um script **Python** para gerar uma página HTML estática a partir de um template. [cite: 3, 38] Buscando aprimorar a experiência do usuário e aplicar conhecimentos de desenvolvimento web moderno, expandimos a proposta inicial. O resultado é uma *Single Page Application (SPA)* dinâmica e interativa, construída com HTML5, CSS3 e JavaScript, e enriquecida com ferramentas como Tailwind CSS e a API generativa do Google (Gemini).
+O escopo inicial do projeto, conforme as diretrizes, previa a utilização de um script **Python** para gerar uma página HTML estática a partir de um template. Buscando aprimorar a experiência do usuário e aplicar conhecimentos de desenvolvimento web moderno, expandimos a proposta inicial. O resultado é uma *Single Page Application (SPA)* dinâmica e interativa, construído com HTML5, CSS3 e JavaScript, e enriquecido com ferramentas como Tailwind CSS e a API generativa do Google (Gemini).
 
-[cite_start]O site aborda seções fundamentais sobre a campanha, como sua definição [cite: 20][cite_start], importância [cite: 21][cite_start], dados estatísticos [cite: 22] [cite_start]e formas de prevenção. [cite: 23]
-
----
+O site aborda seções fundamentais sobre a campanha, como sua definição, importância, dados estatísticos e formas de prevenção.
 
 ## ✨ Funcionalidades
 
@@ -39,43 +45,34 @@ O site conta com as seguintes seções e funcionalidades interativas:
 -   **Chatbot Assistente (com IA):** Um assistente virtual inteligente com o qual o usuário pode conversar para tirar dúvidas sobre a campanha, sintomas e prevenção.
 -   **Design Responsivo:** A interface se adapta perfeitamente a diferentes tamanhos de tela, como desktops, tablets e celulares.
 
----
-
 ## 🚀 Tecnologias Utilizadas
-
-As seguintes tecnologias foram utilizadas no desenvolvimento do projeto:
 
 | Tecnologia | Descrição |
 | :--- | :--- |
-| **HTML5** | [cite_start]Linguagem de marcação para a estruturação semântica das páginas. [cite: 7] |
-| **CSS3** | [cite_start]Utilizado para a estilização base e animações. [cite: 8] |
+| **HTML5** | Linguagem de marcação para a estruturação semântica das páginas. |
+| **CSS3** | Utilizado para a estilização base e animações. |
 | **Tailwind CSS** | Framework CSS utility-first para a criação rápida e consistente do design. |
 | **JavaScript** | Linguagem de programação que adiciona toda a interatividade ao site, como a lógica dos gráficos e as chamadas de API. |
 | **Chart.js** | Biblioteca para a criação dos gráficos e visualização de dados estatísticos. |
 | **Google Gemini API** | Inteligência Artificial generativa utilizada no Chatbot, na seção de Mitos e Verdades e no Gerador de Mensagens. |
-| **GitHub** | [cite_start]Plataforma utilizada para o controle de versão do código. [cite: 9] |
-| **GitHub Pages**| [cite_start]Serviço de hospedagem para a publicação e disponibilização online do site. [cite: 4, 9] |
-| **Python** | [cite_start]Utilizado na fase conceitual do projeto, conforme solicitado, para o estudo de geração de páginas. [cite: 6] |
-
----
+| **GitHub** | Plataforma utilizada para o controle de versão do código. |
+| **GitHub Pages**| Serviço de hospedagem para a publicação e disponibilização online do site. |
+| **Python** | Utilizado na fase conceitual do projeto, conforme solicitado, para o estudo de geração de páginas. |
 
 ## 📂 Estrutura de Pastas
 
 O projeto está organizado da seguinte forma para garantir a manutenibilidade:
 
 /outubro-rosa-site/
-|
-├── index.html            # Arquivo principal da página
 ├── css/
-│   └── estilos.css       # Folha de estilos customizada
+│   └── estilos.css
 ├── js/
-│   └── scripts.js        # Arquivo com toda a lógica JavaScript
+│   └── scripts.js
 ├── imagens/
-│   └── outubro.jpg       # Imagem de fundo da seção principal
-└── README.md             # Documentação do projeto (este arquivo)
+│   └── outubro.jpg
+├── index.html
+└── README.md
 
-
----
 
 ## 🖥️ Como Visualizar o Projeto
 
@@ -83,7 +80,7 @@ O projeto está organizado da seguinte forma para garantir a manutenibilidade:
 
 O site está publicado e pode ser acessado através do seguinte link:
 
-➡️ **[https://andre-luan.github.io/Outubro-Rosa/](https://andre-luan.github.io/Outubro-Rosa/)** ⬅️ (Substitua pelo link do seu GitHub Pages)
+➡️ **[https://andre-luan.github.io/Outubro-Rosa/](https://andre-luan.github.io/Outubro-Rosa/)** (Substitua pelo link correto, se for diferente)
 
 ### Opção 2: Executar Localmente
 
@@ -100,13 +97,3 @@ Caso queira executar o projeto em sua máquina local:
 3.  **Abra o arquivo `index.html`** diretamente no seu navegador de preferência.
 
 > **Nota:** Para que as funcionalidades de Inteligência Artificial (Chatbot, Mitos e Verdades) funcionem localmente, é necessário inserir uma chave de API válida do Google Gemini no arquivo `js/scripts.js`.
-
----
-
-## 👨‍💻 Autores
-
-Este projeto foi desenvolvido com dedicação por:
-
--   **André Luan** - [GitHub](https://github.com/andorelol)
--   **Pedro Augusto** - [GitHub](https://github.com/pedroasampa)
--   **Raphael Guthyer** - (Adicione o link do GitHub aqui se houver)
