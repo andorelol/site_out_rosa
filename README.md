@@ -60,12 +60,16 @@ O site conta com as seguintes seções e funcionalidades interativas:
 O projeto está organizado da seguinte forma:
 
 
--   **`/css`**: Contém a folha de estilos (`estilos.css`).
--   **`/js`**: Contém o arquivo de lógica JavaScript (`scripts.js`).
--   **`/imagens`**: Armazena os recursos de imagem do site.
--   **`index.html`**: O arquivo principal da página.
--   **`servidor.py`**: Script Python para iniciar um servidor de desenvolvimento local.
--   **`README.md`**: Este arquivo de documentação.
+/site_out_rosa/
+├── 📂 css/
+│   └── estilos.css
+├── 📂 js/
+│   └── scripts.js
+├── 📂 imagens/
+│   └── outubro.jpg
+├── 📜 index.html
+├── 🐍 servidor.py
+└── 📄 README.md
 
 
 ## 🖥️ Como Visualizar o Projeto
